@@ -1,4 +1,4 @@
-2026/09/04 12:22更新,#genre#
+2026/09/05 12:18更新,#genre#
 虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
 港澳A组,#genre#
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -15,6 +15,21 @@ TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
 港澳B组,#genre#
+AMC电影,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784702901150
+TVBS精采,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
+华视,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
+寰宇新闻台湾,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
+靖天,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784702901150
+靖天欢乐,http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1784702901150
+靖天卡通,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
+靖天日本,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
+靖天戏剧,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
+靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150
+靖天综合,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784702901150
+靖洋戏剧,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784702901150
+
+港澳C组,#genre#
 NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
 TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
@@ -33,15 +48,15 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
 天映,http://74.91.26.218:82/live/typd.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
-无线新闻,http://74.91.26.218:82/live/inews.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 
-港澳C组,#genre#
+港澳D组,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -60,7 +75,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻台源2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
-港澳D组,#genre#
+港澳E组,#genre#
 TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://r.jdshipin.com/sXuuD
 TVBPlus,http://r.jdshipin.com/Nr5jq
@@ -76,7 +91,7 @@ TVBPlus,http://r.jdshipin.com/ndGgS
 凤凰资讯,http://r.jdshipin.com/0Rp07
 无线新闻,http://r.jdshipin.com/CkuBd
 
-港澳E组,#genre#
+港澳F组,#genre#
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -98,7 +113,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
-港澳F组,#genre#
+港澳G组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -114,7 +129,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天新闻YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
 
-港澳G组,#genre#
+港澳H组,#genre#
 TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 大爱一,https://7612-5516-affc-d88b.kylintv.tv/live/daai_iphone.m3u8
 凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxnaus_iphone.m3u8
@@ -122,24 +137,21 @@ TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 凤凰卫视中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 
-港澳H组,#genre#
-大爱1,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
+港澳I组,#genre#
 华视,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇新闻台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
 
-港澳I组,#genre#
+港澳J组,#genre#
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华卡通,http://cdn8.163189.xyz/163189/lhkt
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
