@@ -1,17 +1,6 @@
-2026/10/18 12:21更新,#genre#
+2026/10/19 12:28更新,#genre#
 虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
 港澳A组,#genre#
-1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
-TVB翡翠台1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB翡翠台（备用）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-
-港澳B组,#genre#
 AXN,http://31.43.191.125:8080/restream/restream/34597
 TVB经典,http://31.43.191.125:8080/restream/restream/34555
 TVBE-NEWS,http://31.43.191.125:8080/restream/restream/34660
@@ -19,7 +8,7 @@ TVBSASIA,http://31.43.191.125:8080/restream/restream/34561
 凤凰中文,http://31.43.191.125:8080/restream/restream/34629
 凤凰资讯,http://31.43.191.125:8080/restream/restream/34641
 
-港澳C组,#genre#
+港澳B组,#genre#
 EBC东森新闻5124小时线上直播,https://www.youtube.com/watch?v=E0zhe2gkXBs
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新闻台24小时直播,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -54,9 +43,17 @@ TVBS5624小时LIVE直播,https://www.youtube.com/watch?v=o_-hSMgpAzs
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天新闻YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
 
+港澳C组,#genre#
+TVB翡翠台1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+TVB翡翠台（备用）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
 港澳D组,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBJ1源1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -91,24 +88,16 @@ TVBPlus,http://r.jdshipin.com/ndGgS
 无线新闻,http://r.jdshipin.com/CkuBd
 
 港澳F组,#genre#
-TVB-翡翠新加坡,http://zby.lskk.top/cdnlive.php?mode=play&id=66521bb3ce37a0c095bfeb825326b3e7&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-识叹,http://zby.lskk.top/cdnlive.php?mode=play&id=77b512f52931bcf2e0ec8ff9336059b1&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-无线新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=202dd6cb2fa10b757f27371ed2308931&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-EYT,http://zby.lskk.top/cdnlive.php?mode=play&id=461ac1c2e255cdd0c66901d5cd3017b2&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB1-翡翠一,http://zby.lskk.top/cdnlive.php?mode=play&id=e9e1fe6c5259651029eda4e899282675&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVBS精采,http://zby.lskk.top/cdnlive.php?mode=play&id=d16f1ff42beb538881999aa58e103c9f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVBS,http://zby.lskk.top/cdnlive.php?mode=play&id=0bd56183204431b5e504b83caf1b663e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB_Plus,http://zby.lskk.top/cdnlive.php?mode=play&id=86ef0c139b7b3b2a8063f931d48586ba&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-八大精采,http://zby.lskk.top/cdnlive.php?mode=play&id=da8f2e2e074495d4775a9d22c1517f29&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-八大娱乐,http://zby.lskk.top/cdnlive.php?mode=play&id=7593e8da22272cb11a2dfde6e1e4ff82&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-寰宇新闻台湾,http://zby.lskk.top/cdnlive.php?mode=play&id=80f22eaf4939855166f51cb1d03ac8cb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天,http://zby.lskk.top/cdnlive.php?mode=play&id=c5f820f0a624e3a1d98fab34e3d2360f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天育乐,http://zby.lskk.top/cdnlive.php?mode=play&id=2838d50de5d50d2e46ba88589f494bc7&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华日韩,http://zby.lskk.top/cdnlive.php?mode=play&id=6df0f1613e0095a7100beedb7eca7fdf&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-美亚电影粤,http://zby.lskk.top/cdnlive.php?mode=play&id=1acd7da61bf72c10efd6d4fe9d44e494&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-myTVSUPERTVB-千禧经典,http://zby.lskk.top/cdnlive.php?mode=play&id=293ac51056235368be698c698197b3e9&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-三立LIVE,http://zby.lskk.top/cdnlive.php?mode=play&id=7f87b183d2fc14254c78c63883271264&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-猪哥亮歌厅秀,http://zby.lskk.top/cdnlive.php?mode=play&id=073b20dd05257e05ccc4f2ce4ab633ab&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+TVB1,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58589.ts
+TVB1,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58594.ts
+TVBE,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58593.ts
+TVBJ1,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58588.ts
+TVBSASIA,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58590.ts
+TVBSASIA,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59167.ts
+东森财经,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59158.ts
+东森卫视,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59159.ts
+东森中国,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59156.ts
+三立,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59163.ts
 
 港澳G组,#genre#
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
@@ -139,4 +128,11 @@ TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 凤凰卫视香港,https://7612-5516-affc-d88b.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰卫视中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
+
+港澳I组,#genre#
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 
